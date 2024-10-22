@@ -1,6 +1,6 @@
 site:
-  title: FIXME Course Title
-  start_page: REPLACEREPONAME::index.adoc
+  title: Test hand-on lab course
+  start_page: test-hol::index.adoc
 
 content:
   sources:
